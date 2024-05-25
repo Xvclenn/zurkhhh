@@ -122,6 +122,11 @@ function PhotoPage() {
 						height={400}
 					/>
 				</div>
+				<div className=" w-[330px] pt-10">
+					<video autoPlay loop muted playsInline>
+						<source src="/chika2.mov" type="video/mp4" />
+					</video>
+				</div>
 			</div>
 		</>
 	);
