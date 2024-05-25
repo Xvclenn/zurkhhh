@@ -15,15 +15,6 @@ function PhotoPage() {
 					priority
 				/>
 				<p className="m-10">_ _ _ _ _ _ _</p>
-
-				<Image
-					src="/paper3.png"
-					alt="name"
-					className=" shadow-black"
-					width={500}
-					height={600}
-					priority
-				/>
 			</div>
 		</>
 	);
